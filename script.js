@@ -10,5 +10,4 @@ function count(ele) {
 }
 const element = document.getElementById("level");
 let level = count(element);
-
 alert("The level of the element is: " + level);
