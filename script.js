@@ -1,5 +1,5 @@
 //your JS code here. If required.
-function count(ele) {
+function count(element) {
 	let level = 0;
 
 	while (element.parentElement) {
